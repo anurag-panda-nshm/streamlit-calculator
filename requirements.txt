@@ -1,0 +1,5 @@
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+streamlit==1.43.2
+sympy==1.13.3
+numpy==1.25.1
